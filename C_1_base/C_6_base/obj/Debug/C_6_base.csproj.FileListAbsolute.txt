@@ -1,0 +1,6 @@
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_6_base\obj\Debug\C_6_base.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_6_base\bin\Debug\C_6_base.exe.config
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_6_base\bin\Debug\C_6_base.exe
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_6_base\bin\Debug\C_6_base.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_6_base\obj\Debug\C_6_base.exe
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_6_base\obj\Debug\C_6_base.pdb

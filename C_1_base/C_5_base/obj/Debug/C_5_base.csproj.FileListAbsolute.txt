@@ -7,3 +7,9 @@ D:\GitHub\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csproj.GenerateResource
 D:\GitHub\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csproj.CoreCompileInputs.cache
 D:\GitHub\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.exe
 D:\GitHub\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csprojAssemblyReference.cache
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.Properties.Resources.resources
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csproj.GenerateResource.cache
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.exe
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.pdb

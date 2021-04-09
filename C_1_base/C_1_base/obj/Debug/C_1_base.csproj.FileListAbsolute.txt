@@ -23,3 +23,8 @@ D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.csprojAssemblyReference
 D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.csproj.CoreCompileInputs.cache
 D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.dll
 D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_1_base\bin\Debug\C_1_base.dll
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_1_base\bin\Debug\C_1_base.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.dll
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.pdb

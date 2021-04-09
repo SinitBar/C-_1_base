@@ -10,3 +10,15 @@ D:\GitHub\Education\Book\obj\Debug\Book.exe
 D:\GitHub\Education\Book\obj\Debug\Book.pdb
 D:\GitHub\Education\Book\obj\Debug\Book.UserControl1.resources
 D:\GitHub\Education\Book\obj\Debug\Book.CreateForm.resources
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\bin\Debug\Book.exe.config
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\bin\Debug\Book.exe
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\bin\Debug\Book.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.CreateForm.resources
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.Form1.resources
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.Properties.Resources.resources
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.UserControl1.resources
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.csproj.GenerateResource.cache
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.exe
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\C#\C-_1_base\C_1_base\Book\obj\Debug\Book.csprojAssemblyReference.cache
